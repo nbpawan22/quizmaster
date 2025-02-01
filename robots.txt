@@ -5,4 +5,4 @@ Disallow: /admin/
 Disallow: /cgi-bin/
 Allow: /public/
 
-Sitemap: https://www.example.com/sitemap.xml
+Sitemap: https://www.example.com/sitemap_index.xml
