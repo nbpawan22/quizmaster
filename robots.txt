@@ -1,3 +1,8 @@
 User-agent: *
-Allow: /
-Sitemap: https://nbpawan22.github.io/quizmaster/sitemap.xml
+Disallow: /private/
+Disallow: /admin/
+Disallow: /tmp/
+Allow: /public/
+Allow: /images/
+
+Sitemap:https://nbpawan22.github.io/quizmaster/sitemap.xml
