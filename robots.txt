@@ -1,8 +1,8 @@
 User-agent: *
 Disallow: /private/
-Disallow: /admin/
 Disallow: /tmp/
+Disallow: /admin/
+Disallow: /cgi-bin/
 Allow: /public/
-Allow: /images/
 
-Sitemap:https://nbpawan22.github.io/quizmaster/sitemap.xml
+Sitemap: https://www.example.com/sitemap.xml
