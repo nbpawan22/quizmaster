@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nbpawan22.github.io/quizmaster/sitemap.xml
